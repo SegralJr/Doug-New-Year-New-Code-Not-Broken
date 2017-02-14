@@ -7,14 +7,14 @@ AIN5=
 AIN6=
 AIN7=
 AIN8=
-DIO1=First Jumper Clip
-DIO2=Second Jumper Clip
-DIO3=Third Jumper Clip
-DIO4=Claw Limit Switch
-DIO5=Motor Encoder One A
-DIO6=Motor Encoder One B
-DIO7=Motor Encoder Two A
-DIO8=Motor Encoder Two B
+DIO1=Right Encoder A
+DIO2=Right Encoder B
+DIO3=Left Encoder A
+DIO4=Left Encoder B
+DIO5=Claw Limit Switch
+DIO6=Jumper Clip 1
+DIO7=Jumper Clip 2
+DIO8=
 DIO9=
 DIO10=
 DIO11=
@@ -36,7 +36,11 @@ IME4=
 IME5=
 IME6=
 IME7=
-IME8=
+<<<<<<< HEAD
+IME8=Claw motors
+=======
+IME8=Claw motors (A and B)
+>>>>>>> origin/master
 IME9=
 IME10=
 [IME]
@@ -51,13 +55,17 @@ MOTOR8=8
 MOTOR9=9
 MOTOR10=10
 [TYPE]
-MOTOR1=0
-MOTOR2=0
-MOTOR3=0
-MOTOR4=0
-MOTOR5=0
-MOTOR6=0
-MOTOR7=0
-MOTOR8=0
-MOTOR9=0
-MOTOR10=0
+MOTOR1=1
+MOTOR2=1
+MOTOR3=1
+MOTOR4=1
+MOTOR5=1
+MOTOR6=1
+MOTOR7=1
+<<<<<<< HEAD
+MOTOR8=1
+=======
+MOTOR8=3
+>>>>>>> origin/master
+MOTOR9=1
+MOTOR10=1
