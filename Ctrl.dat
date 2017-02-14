@@ -36,7 +36,11 @@ IME4=
 IME5=
 IME6=
 IME7=
+<<<<<<< HEAD
 IME8=Claw motors
+=======
+IME8=Claw motors (A and B)
+>>>>>>> origin/master
 IME9=
 IME10=
 [IME]
@@ -58,6 +62,10 @@ MOTOR4=1
 MOTOR5=1
 MOTOR6=1
 MOTOR7=1
+<<<<<<< HEAD
 MOTOR8=1
+=======
+MOTOR8=3
+>>>>>>> origin/master
 MOTOR9=1
 MOTOR10=1
