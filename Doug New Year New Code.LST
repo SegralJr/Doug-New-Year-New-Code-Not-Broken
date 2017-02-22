@@ -334,7 +334,7 @@ Discarded input sections
  .data          0x00000000        0x0 C:\Users\luketyl\AppData\Roaming\Intelitek\easyC V5\Cortex\Temp\ThirdAutonomous.o
  .bss           0x00000000        0x0 C:\Users\luketyl\AppData\Roaming\Intelitek\easyC V5\Cortex\Temp\ThirdAutonomous.o
  .text.ThirdAutonomous
-                0x00000000       0x2c C:\Users\luketyl\AppData\Roaming\Intelitek\easyC V5\Cortex\Temp\ThirdAutonomous.o
+                0x00000000       0x3c C:\Users\luketyl\AppData\Roaming\Intelitek\easyC V5\Cortex\Temp\ThirdAutonomous.o
  .text          0x00000000        0x0 C:\Users\luketyl\AppData\Roaming\Intelitek\easyC V5\Cortex\Temp\OneMinuteAutonomous.o
  .data          0x00000000        0x0 C:\Users\luketyl\AppData\Roaming\Intelitek\easyC V5\Cortex\Temp\OneMinuteAutonomous.o
  .bss           0x00000000        0x0 C:\Users\luketyl\AppData\Roaming\Intelitek\easyC V5\Cortex\Temp\OneMinuteAutonomous.o
